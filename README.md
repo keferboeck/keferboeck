@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @keferboeck
-- 👀 I’m interested in cycling & web application development.
-- 🌱 I’m currently learning julia programming langauge.
-- 💞️ I’m looking to collaborate on ... (nope).
-- 📫 You can reach me on georg@keferboeck.com
-
-<!---
-keferboeck/keferboeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋🏼, I’m Georg, a London-based growth hacker with a hands-on approach to turning ideas into thriving businesses. I’ve helped startups and SMEs transform their nurtured concepts into success stories through practical execution. What sets me apart is simple: I don’t just talk the talk—I walk the walk. I even offer my services commission-based, with no upfront cost, effectively paying for myself—the way performance marketing is supposed to be.
